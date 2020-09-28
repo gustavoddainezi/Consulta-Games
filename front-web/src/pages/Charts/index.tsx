@@ -57,7 +57,7 @@ const Charts = () => {
                     <div className="games-container">
                         <Chart options={barOptions}
                         type="bar"
-                        width="700"
+                        width="900"
                         height="650"
                         series={[{ data : barChartData}]}
                         />
@@ -70,7 +70,7 @@ const Charts = () => {
                             options={{ ...pieOptions, labels: platformData?.labels }}
                             type="donut"
                             series = {platformData?.series}
-                            width = "300"
+                            width = "350"
                         />
                     </div>
                     <div className="gender-chart">
@@ -79,7 +79,7 @@ const Charts = () => {
                             options={{ ...pieOptions, labels: genderData?.labels }}
                             type="donut"
                             series = {genderData?.series}
-                            width = "300"
+                            width = "350"
                         />
                     </div>
                 </div>
