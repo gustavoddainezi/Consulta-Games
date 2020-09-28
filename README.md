@@ -1,8 +1,9 @@
 ### :hammer: **Tecnologias**
 
 As seguintes ferramentas foram utilizadas na construção do projeto:
-- [Spring Boot](https://spring.io/)
 - [Java 11](https://www.java.com/pt-BR/)
+- [Spring Boot](https://spring.io/)
+- [PostgreSQL](https://www.postgresql.org/)
 - [ReactNative](https://reactnative.dev/)
 - [ReactJS](https://pt-br.reactjs.org/)
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
