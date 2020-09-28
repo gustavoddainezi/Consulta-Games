@@ -1,3 +1,11 @@
+## :computer: Sobre
+
+<p align="justify">O projeto foi desenvolvido com o intuito de desenvolver habilidades em criação de Web Services além de manipular seus dados através de um back-end que tem como objetivo criar dados com um front-end Mobile e visualizar essas informações em um front-end Web através de tabelas e gráficos.</p>
+
+<p align="justify">A plataforma BigGame Survey foi desenvolvida para que os usuários através de um aplicativo móvel, votem em seus jogos, gêneros e plataformas favoritas. Para isso um cadastro básico contendo nome e idade é necessário, que posteriormente poderão ser consultados através de tabelas e gráficos que mostrarão quais os jogos e gêneros foram mais votados e em quais plataformas os usuários preferem jogar.</p>
+
+---
+
 ### :hammer: **Tecnologias**
 
 As seguintes ferramentas foram utilizadas na construção do projeto:
