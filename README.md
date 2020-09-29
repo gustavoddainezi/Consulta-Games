@@ -9,7 +9,7 @@
 ### 🎨 Layout
 
 <p align="center">
- <strong> 🖥 WEB </strong>
+ <strong> 🖥 WEB </strong><br/>
  <img src="./imagens/InicioSite.JPG" width="850">
  <img src="./imagens/TabelaSite.JPG" width="850">
  <img src="./imagens/GraficosSite.jpg" width="850">
