@@ -8,17 +8,22 @@
 
 ### 🎨 Layout
 
-<p align="center"><b> 🖥 WEB </b></p>
-
-<p align="center"><img src="./imagens/InicioSite.JPG" width="850"><img src="./imagens/TabelaSite.JPG" width="850"></p>
-
+<p align="center">
+ <strong> 🖥 WEB </strong>
+ <img src="./imagens/InicioSite.JPG" width="850">
+ <img src="./imagens/TabelaSite.JPG" width="850">
+ <img src="./imagens/GraficosSite.jpg" width="850">
+</p>
 
 <p align="center"><strong> 📱 MOBILE </strong></p>
 
-
- Início | Cadastro 
+<div align="center">
+ 
+Início | Cadastro 
 ---|---
-<img src="./imagens/InicioMobile.jpg" width="280" height="500"> | <img src="./imagens/PreenchidoMobile.jpg" width="280" height="500"> |
+<img src="./imagens/InicioMobile.jpg" width="280" height="500"> | <img src="./imagens/PreenchidoMobile.jpg" width="280" height="500">
+
+</div>
 
 ---
 
@@ -38,7 +43,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 ## 🦸 **Autor**
 
 <a href="https://www.linkedin.com/in/gustavo-damaceno/">
- <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/38168305?s=400&u=8771c7a335f88317a15bfe3b243c934121ba6862&v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/38168305?s=400&u=8771c7a335f88317a15bfe3b243c934121ba6862&v=4" width="100px;"/>
  <br />
 </a> <a href="https://www.linkedin.com/in/gustavo-damaceno/" title="Gustavo Damaceno">Gustavo Damaceno</a>
  <br />
@@ -51,5 +56,5 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 ### 📝 **Licença**
 
-Copyright © 2020 [Gustavo Damaceno](https://github.com/gustavoddainezi).<br />
+Copyright © 2020 [Gustavo Damaceno](https://github.com/gustavoddainezi).
 Este projeto é licenciado pelo [MIT](./LICENSE).
