@@ -57,5 +57,5 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 ### 📝 **Licença**
 
-Copyright © 2020 [Gustavo Damaceno](https://github.com/gustavoddainezi).
+Copyright © 2020 [Gustavo Damaceno](https://github.com/gustavoddainezi).<br/>
 Este projeto é licenciado pelo [MIT](./LICENSE).
