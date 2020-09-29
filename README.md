@@ -8,12 +8,13 @@
 
 ### 🎨 Layout
 
-<p align="center">
- <strong> 🖥 WEB </strong><br/>
+<p align="center"><strong> 🖥 WEB </strong></p>
+
+<div align="center">
  <img src="./imagens/InicioSite.JPG" width="850">
  <img src="./imagens/TabelaSite.JPG" width="850">
  <img src="./imagens/GraficosSite.jpg" width="850">
-</p>
+</div>
 
 <p align="center"><strong> 📱 MOBILE </strong></p>
 
