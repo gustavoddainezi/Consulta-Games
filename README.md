@@ -6,6 +6,22 @@
 
 ---
 
+### 🎨 Layout
+
+<p align="center"><b> :computer: WEB </b></p>
+
+<p align="center"><img src="./imagens/InicioSite.JPG" width="850"><img src="./imagens/TabelaSite.JPG" width="850"></p>
+
+
+<p align="center"><strong> :iphone: MOBILE </strong></p>
+
+
+ Início | Cadastro 
+---|---
+<img src="./imagens/InicioMobile.jpg" width="280" height="500"> | <img src="./imagens/PreenchidoMobile.jpg" width="280" height="500"> |
+
+---
+
 ### :hammer: **Tecnologias**
 
 As seguintes ferramentas foram utilizadas na construção do projeto:
