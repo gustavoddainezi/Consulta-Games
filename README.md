@@ -1,4 +1,4 @@
-## :computer: Sobre
+## 💻 Sobre
 
 <p align="justify">O projeto foi desenvolvido com o intuito de desenvolver habilidades em criação de Web Services além de manipular seus dados através de um back-end que tem como objetivo criar dados com um front-end Mobile e visualizar essas informações em um front-end Web através de tabelas e gráficos.</p>
 
@@ -8,12 +8,12 @@
 
 ### 🎨 Layout
 
-<p align="center"><b> :computer: WEB </b></p>
+<p align="center"><b> 🖥 WEB </b></p>
 
 <p align="center"><img src="./imagens/InicioSite.JPG" width="850"><img src="./imagens/TabelaSite.JPG" width="850"></p>
 
 
-<p align="center"><strong> :iphone: MOBILE </strong></p>
+<p align="center"><strong> 📱 MOBILE </strong></p>
 
 
  Início | Cadastro 
@@ -22,7 +22,7 @@
 
 ---
 
-### :hammer: **Tecnologias**
+### 🛠 **Tecnologias**
 
 As seguintes ferramentas foram utilizadas na construção do projeto:
 - [Java 11](https://www.java.com/pt-BR/)
@@ -49,7 +49,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 ---
 
-### :page_facing_up: **Licença**
+### 📝 **Licença**
 
 Copyright © 2020 [Gustavo Damaceno](https://github.com/gustavoddainezi).<br />
 Este projeto é licenciado pelo [MIT](./LICENSE).
