@@ -1,3 +1,7 @@
+<div align="center">
+ <img src="./imagens/logo.png" width="250">
+</div>
+
 ## 💻 Sobre
 
 <p align="justify">O projeto foi desenvolvido com o intuito de desenvolver habilidades em criação de Web Services além de manipular seus dados através de um back-end que tem como objetivo criar dados com um front-end Mobile e visualizar essas informações em um front-end Web através de tabelas e gráficos.</p>
