@@ -1,6 +1,14 @@
 <div align="center">
- <img src="./imagens/logo.png" width="250">
+ <img src="./imagens/logo.png" alt="Big Game Survey" width="250">
 </div>
+
+<p align="center">
+ <a href="#-sobre">Sobre</a> •
+ <a href="#-layout">Layout</a> •
+ <a href="#-tecnologias">Tecnologias</a> •
+ <a href="#-autor">Autor</a> •
+ <a href="#-licença">Licença</a>
+</p>
 
 ## 💻 Sobre
 
