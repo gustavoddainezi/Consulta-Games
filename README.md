@@ -3,6 +3,12 @@
 </div>
 
 <p align="center">
+ <img src="https://img.shields.io/badge/Feito%20por-Gustavo%20Damaceno-00D4FF?style=for-the-badge" alt="Feito por Gustavo Damaceno">
+ <img src="https://img.shields.io/github/last-commit/gustavoddainezi/Consulta-Games?style=for-the-badge" alt="Último commit">
+ <img src="https://img.shields.io/badge/LICENSE-MIT-ED7947?style=for-the-badge" alt="Licença do Projeto"/>
+<p>
+
+<p align="center">
  <a href="#-sobre">Sobre</a> •
  <a href="#-layout">Layout</a> •
  <a href="#-tecnologias">Tecnologias</a> •
