@@ -3,9 +3,9 @@
 </div>
 
 <p align="center">
- <img src="https://img.shields.io/badge/Feito%20por-Gustavo%20Damaceno-00D4FF?style=for-the-badge" alt="Feito por Gustavo Damaceno">
- <img src="https://img.shields.io/github/last-commit/gustavoddainezi/Consulta-Games?style=for-the-badge" alt="Último commit">
- <img src="https://img.shields.io/badge/LICENSE-MIT-ED7947?style=for-the-badge" alt="Licença do Projeto"/>
+ <a href="https://github.com/gustavoddainezi"><img src="https://img.shields.io/badge/Feito%20por-Gustavo%20Damaceno-00D4FF?style=for-the-badge" alt="Feito por Gustavo Damaceno"></a>
+ <a href="https://github.com/gustavoddainezi/Consulta-Games"><img src="https://img.shields.io/github/last-commit/gustavoddainezi/Consulta-Games?style=for-the-badge" alt="Último commit"></a>
+ <a href="https://github.com/gustavoddainezi/Consulta-Games/blob/master/LICENSE"><img src="https://img.shields.io/badge/LICENSE-MIT-ED7947?style=for-the-badge" alt="Licença do Projeto"/></a>
 <p>
 
 <p align="center">
